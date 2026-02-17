@@ -1,7 +1,10 @@
+import TopBar from "./components/TopBar"
+
 function App() {
   return (
     <>
-      <h1 className="text-3xl text-red-500">Hirota 2.0</h1>
+      <TopBar />
+
     </>
   )
 }
