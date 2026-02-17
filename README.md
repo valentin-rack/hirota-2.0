@@ -1,16 +1,14 @@
-# React + Vite
+<p align="center">
+  <img src="src/assets/ui/hirota_logo_web.svg" width="90%" alt="HIROTA logo">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
 
-Currently, two official plugins are available:
+**HIROTA** is a Japanese karategi manufacturer internationally recognized for the quality and craftsmanship of its products. Despite its global reputation among practitioners, the company does not currently operates only in Japan and without an online store. Its official website (https://www.karategi-hirota.co.jp/) functions as an informational catalog, and orders within Japan are traditionally handled via fax.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## React Compiler
+# 🌐🛒🥋 HIROTA Worldwide E-commerce Simulator
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+This project is a frontend e-commerce implementation for HIROTA, built with **React**, **Vite**, and **Tailwind CSS**. It is a conceptual redesign of HIROTA’s digital presence, proposing a purchasing experience aligned with contemporary global standards without compromising the brand’s heritage. It explores how the brand could be translated into a modern, scalable, and internationally accessible web store while maintaining its cultural identity and commitment to craftsmanship.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
