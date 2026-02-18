@@ -16,14 +16,12 @@ body {
   font-weight: 400;
   font-style: normal; */
 
-}
-
-/* Gradient */
-body {
+  /* Gradient */
   background: linear-gradient(135deg, #aae4ff, #ffffff, #aae4ff);  /* #b3e5fc */
   background-size: 300% 300%;
   animation: gradientMove 8s ease-in-out infinite;
   min-height: 100vh;
+
 }
 
 @keyframes gradientMove {
@@ -31,6 +29,7 @@ body {
   50%  { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
+
 
 /* No scroll-bars */
 ::-webkit-scrollbar { /* Chrome, Edge, Safari */
@@ -41,6 +40,7 @@ html { /* Firefox */
 }
 
 
+/* Selection color */
 ::selection {
   @apply bg-neutral-600;
   @apply text-white;            
