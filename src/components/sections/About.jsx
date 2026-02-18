@@ -28,7 +28,7 @@ function About() {
             <span>TEL(03)3730-5366</span>
             <span>FAX(03)3730-5336</span>
           </div>
-          <span class="underline cursor-pointer hover:opacity-70 transition-opacity">tokyo@karategi-hirota.co.jp</span>
+          <span class="hover:underline hover:underline-offset-2 hover:opacity-70 transition-opacity">tokyo@karategi-hirota.co.jp</span>
           <p>Business Hours:</p>
           <ul class="list-disc list-inside">
             <li>Monday–Friday: 9:00–18:00</li>
@@ -45,7 +45,7 @@ function About() {
             <span>TEL(092)475-1810</span>
             <span>FAX(092)475-1817</span>
           </div>
-          <span class="underline cursor-pointer hover:text-[#5e8fff]">fukuoka@karategi-hirota.co.jp</span>
+          <span class="hover:underline hover:underline-offset-2 hover:opacity-70 transition-opacity">fukuoka@karategi-hirota.co.jp</span>
           <p>Business Hours:</p>
           <ul class="list-disc list-inside">
             <li>Monday–Friday: 9:00–18:00</li>

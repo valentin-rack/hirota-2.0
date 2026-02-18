@@ -1,6 +1,6 @@
 function FollowUsCard() {
   return (
-    <div className="flex justify-between items-start p-[15px] pt-2 backdrop-blur-md bg-black/7 rounded-[10px]">
+    <div className="flex justify-between items-start p-[15px] backdrop-blur-md bg-black/7 rounded-[10px]">
 
       <div>
         <div className="text-[13px] text-neutral-500 leading-tight mb-2">
