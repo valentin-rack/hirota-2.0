@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/ui/hirota_logo_web.svg" width="90%" alt="HIROTA logo">
+  <img src="src/assets/ui/hirota-logo-web.svg" width="90%" alt="HIROTA logo">
 </p>
 
 <br>

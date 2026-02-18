@@ -39,3 +39,13 @@ body {
 html { /* Firefox */
   scrollbar-width: none;
 }
+
+
+::selection {
+  @apply bg-neutral-600;
+  @apply text-white;            
+}
+
+a.active-link {
+  @apply underline underline-offset-2 decoration-2;
+}

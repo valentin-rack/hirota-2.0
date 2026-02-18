@@ -2,9 +2,8 @@ import Card from "../ui/Card";
 
 function Cart() {
   return (
-    <section className="flex flex-col gap-[8px] min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px]">
-      <Card>
-        <h2 className="text-[13px] text-neutral-600">Cart (2)</h2>
+    <section className="flex flex-col gap-2 min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px] pb-2">
+      <Card title="Cart">
       </Card>
     </section>
   );
