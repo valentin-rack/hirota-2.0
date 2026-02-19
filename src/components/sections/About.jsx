@@ -1,6 +1,5 @@
 import Card from "../ui/Card";
 import FollowUsCard from "../layout/FollowUsCard";
-import unflavored from "../../../public/hirota-favicon.svg"
 import unflavoredsimp from "../../assets/ui/hirota-logo-unflavored-simp.svg"
 
 function About() {
@@ -8,7 +7,7 @@ function About() {
     <section className="flex flex-col gap-2 min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px] pb-2">
 
       <Card title="空手衣のヒロタ" subtitle="about us">
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 mt-[15px]">
           <div className="text-[13px] text-neutral-500 leading-tight">
             <img src={unflavoredsimp} alt="HIROTA Logo Simplified" className="inline opacity-50 h-[16px] align-baseline mr-1.5"/>is a Japanese manufacturing house specializing in premium karate-gi and karate equipment.
           </div>
@@ -22,7 +21,7 @@ function About() {
       </Card>
 
       <Card title="東京本社 Tokyo Head Office" subtitle="contact us">
-        <div className="text-[13px] text-neutral-500 leading-tight">
+        <div className="text-[13px] text-neutral-500 leading-tight mt-[15px]">
           <p>NS Bldg. 1F, 5-33-6 Kamata, Ohta-ku, Tokyo 144-0052, Japan.</p>
           <div class="flex justify-between">
             <span>TEL(03)3730-5366</span>
@@ -39,7 +38,7 @@ function About() {
       </Card>
 
       <Card title="福岡支店 Fukuoka Branch">
-        <div className="text-[13px] text-neutral-500 leading-tight">
+        <div className="text-[13px] text-neutral-500 leading-tight mt-[15px]">
           <p>4-2-15 Sumiyon Bldg., Sumiyoshi, Hakata-ku, Fukuoka City 812-0018, Japan.</p>
           <div class="flex justify-between">
             <span>TEL(092)475-1810</span>
@@ -56,7 +55,7 @@ function About() {
       </Card> 
 
       <Card title="愛知工場 Aichi Factory">
-        <div className="text-[13px] text-neutral-500 leading-tight">
+        <div className="text-[13px] text-neutral-500 leading-tight mt-[15px]">
           <p>16-3 Rendai, Yonezu-cho, Nishio City, Aichi 445-0802, Japan.</p>
           <div class="flex justify-between">
             <span>TEL(0563)54-3600</span>
@@ -66,7 +65,7 @@ function About() {
       </Card> 
 
       <Card title="※ Reservations" subtitle="visit us">
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 mt-[15px]">
           <div>
             <p className="text-[13px] text-neutral-500 leading-tight">To ensure proper attention and accurate measurement, please make a reservation before visiting any HIROTA location. Please call the branch you plan to visit and make a reservation in advance.</p>
           </div>
