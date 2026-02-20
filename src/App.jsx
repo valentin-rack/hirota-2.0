@@ -1,7 +1,7 @@
 import TopBar from "./components/layout/TopBar"
-import About from "./components/sections/About"
-import Shop from "./components/sections/Shop"
-import Cart from "./components/sections/Cart"
+import About from "./components/about/About"
+import Shop from "./components/shop/Shop"
+import Cart from "./components/cart/Cart"
 
 function App() {
   return (

@@ -1,6 +1,31 @@
 @import "tailwindcss";
 
-/* General styles */
+/* Tag styles */
+@layer base {
+  body {
+    @apply text-[12px];
+  }
+}
+
+/* Custom utilitary classes */
+@layer utilities {
+  .title {
+    @apply text-neutral-600 leading-tight tracking-wide;
+  }
+
+  .subtitle{
+    @apply text-neutral-400 leading-tight ml-auto mr-1 tracking-wide;
+  }
+
+  .description{
+    @apply text-neutral-500 leading-tight;
+  }
+
+  .link{
+    @apply text-neutral-500 hover:underline hover:underline-offset-2 hover:opacity-70 transition-opacity cursor-pointer;
+  }
+}
+
 body {
   font-family: "Work Sans", sans-serif;
   font-optical-sizing: auto;
@@ -21,7 +46,6 @@ body {
   background-size: 300% 300%;
   animation: gradientMove 8s ease-in-out infinite;
   min-height: 100vh;
-
 }
 
 @keyframes gradientMove {

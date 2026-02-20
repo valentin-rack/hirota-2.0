@@ -5,13 +5,13 @@ function Card({ title, subtitle, children }) {
       {(title || subtitle) && (
         <div className="flex items-start">
           {title && (
-            <h2 className="text-[13px] text-neutral-600 leading-tight">
+            <h2 className="title">
               {title}
             </h2>
           )}
 
           {subtitle && (
-            <h2 className="text-[13px] text-neutral-400 leading-tight ml-auto mr-1">
+            <h2 className="subtitle">
               {subtitle}
             </h2>
           )}
