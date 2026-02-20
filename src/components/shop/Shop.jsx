@@ -28,11 +28,11 @@ function Shop() {
     "text-sm font-mono text-blue-700 hover:underline cursor-pointer";
 
   return (
-    <section className="flex flex-col gap-2 min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px] pb-2">
+    <section className="flex flex-col gap-2 min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px] pb-6">
 
       <Card title="Shop" subtitle="select category">
         <nav>
-          <div className="flex gap-2 justify-between mt-2">
+          <div className="flex gap-10 justify-evenly mt-4">
 
             <button
               onClick={() => setActiveCategory("karate-gi")}
