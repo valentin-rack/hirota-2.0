@@ -4,7 +4,7 @@
 
 <br>
 
-## 🎌🥋 HIROTA
+## 🎌🥋 HIROTA 空手衣のヒロタ
 
 **HIROTA** is a Japanese karategi manufacturer internationally recognized for the quality and craftsmanship of its products. Despite its global reputation among practitioners, the company does not currently operates only in Japan and without an online store. Its official website (https://www.karategi-hirota.co.jp/) functions as an informational catalog, and orders within Japan are traditionally handled via fax.
 

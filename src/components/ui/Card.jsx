@@ -1,6 +1,6 @@
 function Card({ title, subtitle, children }) {
   return (
-    <div className="flex flex-col p-[15px] backdrop-blur-md bg-black/7 rounded-[8px]">
+    <div className="flex flex-col p-[15px] backdrop-blur-md bg-gray-500/10 rounded-[8px]">
       
       {(title || subtitle) && (
         <div className="flex items-start">
