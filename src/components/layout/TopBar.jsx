@@ -1,4 +1,4 @@
-import logo from "../../assets/ui/hirota-logo-空手衣のヒロタ.svg"
+import logo from "../../assets/hirota-logo-空手衣のヒロタ.svg"
 
 function TopBar({ height = 22 }) {
   return (

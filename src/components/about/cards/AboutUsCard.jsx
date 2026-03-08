@@ -1,5 +1,5 @@
 import Card from "../../ui/Card"
-import unflavoredsimp from "../../../assets/ui/hirota-logo-unflavored-simp.svg"
+import unflavoredsimp from "../../../assets/hirota-logo-unflavored-simp.svg"
 
 function AboutUsCard() {
   return(

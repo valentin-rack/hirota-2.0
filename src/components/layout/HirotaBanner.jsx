@@ -1,4 +1,4 @@
-import logo from "../../assets/ui/hirota-logo-unflavored-vertical.svg"
+import logo from "../../assets/hirota-logo-unflavored-vertical.svg"
 
 function HirotaBanner() {
   return (

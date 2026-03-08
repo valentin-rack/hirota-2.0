@@ -1,13 +1,10 @@
-import Card from "../ui/Card";
-
-import AboutUsCard from "./elements/AboutUsCard";
-import TokyoCard from "./elements/TokyoCard";
-import FukuokaCard from "./elements/FukuokaCard";
-import AichiCard from "./elements/AichiCard";
-import ReservationsCard from "./elements/ReservationsCard";
-import FollowUsCard from "./elements/FollowUsCard";
+import AboutUsCard from "./cards/AboutUsCard";
+import TokyoCard from "./cards/TokyoCard";
+import FukuokaCard from "./cards/FukuokaCard";
+import AichiCard from "./cards/AichiCard";
+import ReservationsCard from "./cards/ReservationsCard";
+import FollowUsCard from "./cards/FollowUsCard";
 import FooterText from "../layout/FooterText";
-import FooterWithLogo from "../layout/FooterWithLogo";
 
 function About() {
   return (

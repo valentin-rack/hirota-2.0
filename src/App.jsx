@@ -12,18 +12,8 @@ function App() {
       </header>
 
       <main className="h-screen md:overflow-hidden">
-        <div
-          className="
-            grid 
-            grid-cols-1 
-            md:grid-cols-[1fr_2fr_1fr] 
-            2xl:grid-cols-[0.7fr_2fr_5fr_2.7fr] 
-            md:h-full 
-            gap-2 
-            min-h-0
-          "
-        >
-          {/* Banner solo en 2xl */}
+        <div className="grid grid-cols-1 md:grid-cols-[1fr_2fr_1fr] 2xl:grid-cols-[0.7fr_2fr_5fr_2.7fr] md:h-full gap-2 min-h-0">
+          
           <div className="hidden 2xl:block min-h-0">
             <HirotaBanner />
           </div>

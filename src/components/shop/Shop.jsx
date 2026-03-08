@@ -1,31 +1,24 @@
 import { useState } from "react";
 import Card from "../ui/Card";
 
-import KarategiCard from "./elements/KarateGiCard";
-import ObiCard from "./elements/ObiCard";
-import EquipmentCardCont from "./elements/EquipmentCardCont";
-import AccesoriesCardCont from "./elements/AccesoriesCardCont";
+import KarategiCard from "./karate-gi/KarategiCard";
+import ObiCard from "./obi/ObiCard";
+import EquipmentCardCont from "./equipment/EquipmentCardCont";
+import AccesoriesCardCont from "./accesories/AccesoriesCardCont";
 
 function Shop() {
+  // Estado = categoría seleccionada; "karate-gi" categoría por defecto
   const [activeCategory, setActiveCategory] = useState("karate-gi");
 
-  const renderCategory = () => {
-    switch (activeCategory) {
-      case "karate-gi":
-        return <KarategiCard />;
-      case "obi":
-        return <ObiCard />;
-      case "equipment":
-        return <EquipmentCardCont />;
-      case "accesories":
-        return <AccesoriesCardCont />;
-      default:
-        return null;
-    }
+  // Objeto de categorías
+  const categories = {
+    "karate-gi": <KarategiCard />,
+    "obi": <ObiCard />,
+    "equipment": <EquipmentCardCont />,
+    "accesories": <AccesoriesCardCont />,
   };
 
-  const linkBaseStyle =
-    "text-sm font-mono text-blue-700 hover:underline cursor-pointer";
+  const linkBaseStyle = "text-sm font-mono text-blue-700 hover:underline cursor-pointer";
 
   return (
     <section className="flex flex-col gap-2 min-h-screen md:min-h-0 md:h-full md:overflow-y-auto pt-[30px] pb-6">
@@ -74,7 +67,8 @@ function Shop() {
         </nav>
       </Card>
 
-      {renderCategory()}
+      {/* 🔹 Render dinámico */}
+      {categories[activeCategory] || null}
 
     </section>
   );

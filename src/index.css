@@ -3,18 +3,18 @@
 /* Tag styles */
 @layer base {
   body {
-    @apply text-[12px];
+    @apply text-xs font-mono;
   }
 }
 
 /* Custom utilitary classes */
 @layer utilities {
   .title {
-    @apply text-neutral-600 leading-tight tracking-wide;
+    @apply text-neutral-600 leading-tight;
   }
 
   .subtitle{
-    @apply text-neutral-400 leading-tight ml-auto mr-1 tracking-wide;
+    @apply text-neutral-400 leading-tight ml-auto mr-1;
   }
 
   .description{
@@ -25,17 +25,16 @@
     @apply text-neutral-500 hover:underline hover:underline-offset-2 hover:opacity-70 transition-opacity cursor-pointer;
   }
   
-  .text-justify-all{
-    text-align: justify;
-    text-align-last: justify;
+  .shop-subtitle{
+    @apply text-neutral-500 text-base mb-1 font-semibold;
   }
 }
 
 body {
-  font-family: "Work Sans", sans-serif;
+  /* font-family: "Work Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
+  font-style: normal; */
 
   /* font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;

@@ -1,0 +1,423 @@
+[
+  {
+    "id": 1,
+    "name": "Seiken Supporter",
+    "description": "HIROTA logo",
+    "type": "traditional kumite gear, for children & adults",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 2530,
+    "image": "/images/product-1.jpg",
+    "svg": ""
+  },
+  {
+    "id": 2,
+    "name": "JKA Seiken Supporter",
+    "description": "JKA approved",
+    "type": "traditional kumite gear, for children & adults",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 2530,
+    "image": "/images/product-2.jpg",
+    "svg": ""
+  },
+  {
+    "id": 3,
+    "name": "Red Fist Supporter",
+    "description": "JKF approved",
+    "type": "AKA kumite gear",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 3960,
+    "options": {
+      "size": ["XS", "S", "M", "L"]
+    },
+    "image": "/images/product-3.jpg",
+    "svg": ""
+  },
+  {
+    "id": 4,
+    "name": "Blue Fist Supporter",
+    "description": "JKF approved",
+    "type": "AO kumite gear",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 3960,
+    "options": {
+      "size": ["XS", "S", "M", "L"]
+    },
+    "image": "/images/product-4.jpg",
+    "svg": ""
+  },
+  {
+    "id": 5,
+    "name": "Red/Blue Reversible Fist Supporter",
+    "description": "JKF approved for elementary schools students",
+    "type": "AKA & AO kumite gear",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 3520,
+    "options": {
+      "size": ["S", "M"]
+    },
+    "image": "/images/product-5.jpg",
+    "svg": ""
+  },
+  {
+    "id": 6,
+    "name": "Shin & Instep Guard Set",
+    "description": "JKF approved",
+    "type": "AKA & AO kumite gear",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 6380,
+    "options": {
+      "size": ["S", "M", "L"],
+      "color": ["red", "blue"]
+    },
+    "image": "/images/product-6.jpg",
+    "svg": ""
+  },
+  {
+    "id": 7,
+    "name": "Body Protector for Men",
+    "description": "JKA approved",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 4730,
+    "options": {
+      "size": ["XS", "S", "M", "L"]
+    },
+    "image": "/images/product-7.jpg",
+    "svg": ""
+  },
+  {
+    "id": 8,
+    "name": "Body Protector for Women",
+    "description": "JKA approved",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 4730,
+    "options": {
+      "size": ["S", "M", "L"]
+    },
+    "image": "/images/product-8.jpg",
+    "svg": ""
+  },
+  {
+    "id": 9,
+    "name": "Body Protector for Men",
+    "description": "JKF approved",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 5500,
+    "options": {
+      "size": ["XS", "S", "M", "L"]
+    },
+    "image": "/images/product-9.jpg",
+    "svg": ""
+  },
+  {
+    "id": 10,
+    "name": "Body Protector for Women",
+    "description": "JKF approved",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 5500,
+    "options": {
+      "size": ["S", "M", "L"]
+    },
+    "image": "/images/product-10.jpg",
+    "svg": ""
+  },
+  {
+    "id": 11,
+    "name": "Mouth Guard for Children",
+    "description": "upper teeth mouthpiece",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 1100,
+    "image": "/images/product-11.jpg",
+    "svg": ""
+  },
+  {
+    "id": 12,
+    "name": "Mouth Guard",
+    "description": "upper teeth mouthpiece",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 1100,
+    "image": "/images/product-12.jpg",
+    "svg": ""
+  },
+  {
+    "id": 13,
+    "name": "Groin Supporter",
+    "description": "groin supporter for men",
+    "type": "kumite protection",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 2640,
+    "options": {
+      "size": ["S", "M", "L"]
+    },
+    "image": "/images/product-13.jpg",
+    "svg": ""
+  },
+  {
+    "id": 14,
+    "name": "Red & Blue Laces",
+    "description": "JKF approved",
+    "type": "AKA & AO kumite gear, free size each",
+    "category": "equipment",
+    "subcategory": "competition-equipment",
+    "price": 440,
+    "options": {
+      "color": ["red", "blue"]
+    },
+    "image": "/images/product-14.jpg",
+    "svg": ""
+  },
+
+
+
+  {
+    "id": 15,
+    "name": "Kumite Match Display Board",
+    "description": "kumite boards for one tatami",
+    "type": "referee equipment",
+    "category": "equipment",
+    "subcategory": "referee-equipment",
+    "price": 20570,
+    "image": "/images/product-15.jpg",
+    "svg": ""
+  },
+  {
+    "id": 16,
+    "name": "Match Flags",
+    "description": "white, red, and blue flags",
+    "type": "referee equipment",
+    "category": "equipment",
+    "subcategory": "referee-equipment",
+    "price": 908,
+    "options": {
+      "color": ["white", "red", "blue"]
+    },
+    "image": "/images/product-16.jpg",
+    "svg": ""
+  },
+  {
+    "id": 17,
+    "name": "Stainless Steel Whistle",
+    "description": "stainless steel whistle",
+    "type": "referee equipment",
+    "category": "equipment",
+    "subcategory": "referee-equipment",
+    "price": 330,
+    "image": "/images/product-17.jpg",
+    "svg": ""
+  },
+  {
+    "id": 18,
+    "name": "Plastic Whistle",
+    "description": "plastic whistle, white & black available",
+    "type": "referee equipment",
+    "category": "equipment",
+    "subcategory": "referee-equipment",
+    "price": 330,
+    "options": {
+      "color": ["white", "black"]
+    },
+    "image": "/images/product-18.jpg",
+    "svg": ""
+  },
+
+
+
+  {
+    "id": 19,
+    "name": "Hand Mitt",
+    "description": "40cm long x 20cm wide x 6cm thick",
+    "type": "training equipment",
+    "category": "equipment",
+    "subcategory": "training-equipment",
+    "price": 3025,
+    "image": "/images/product-19.jpg",
+    "svg": ""
+  },
+  {
+    "id": 20,
+    "name": "Double Hand Mitt",
+    "description": "40cm long x 20cm wide x 12cm thick",
+    "type": "training equipment",
+    "category": "equipment",
+    "subcategory": "training-equipment",
+    "price": 3630,
+    "image": "/images/product-20.jpg",
+    "svg": ""
+  },
+  {
+    "id": 21,
+    "name": "Punching Mitts",
+    "description": "25cm long x 19cm wide x 9cm thick, one pair",
+    "type": "training equipment",
+    "category": "equipment",
+    "subcategory": "training-equipment",
+    "price": 7260,
+    "image": "/images/product-21.jpg",
+    "svg": ""
+  },
+  {
+    "id": 22,
+    "name": "Kick Mitt",
+    "description": "47cm long x 23cm wide x 11cm thick",
+    "type": "training equipment",
+    "category": "equipment",
+    "subcategory": "training-equipment",
+    "price": 6050,
+    "image": "/images/product-22.jpg",
+    "svg": ""
+  },
+  {
+    "id": 23,
+    "name": "Big Mitt",
+    "description": "65cm long x 43cm wide x 13cm thick",
+    "type": "training equipment",
+    "category": "equipment",
+    "subcategory": "training-equipment",
+    "price": 9680,
+    "image": "/images/product-23.jpg",
+    "svg": ""
+  },
+
+
+
+  {
+    "id": 24,
+    "name": "Fist Support T-Shirt",
+    "description": "long-sleeved t-shirt, fist support embroidered",
+    "type": "100% cotton, unisex",
+    "category": "accesories",
+    "subcategory": "apparel",
+    "price": 4180,
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["white", "black"]
+    },
+    "image": "/images/product-24.jpg",
+    "svg": ""
+  },
+  {
+    "id": 25,
+    "name": "Hirota Original I T-Shirt",
+    "description": "long-sleeved t-shirt",
+    "type": "100% cotton, unisex",
+    "category": "accesories",
+    "subcategory": "apparel",
+    "price": 3630,
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["white", "black"]
+    },
+    "image": "/images/product-25.jpg",
+    "svg": ""
+  },
+  {
+    "id": 26,
+    "name": "Hirota Original II T-Shirt",
+    "description": "long-sleeved t-shirt",
+    "type": "100% cotton, unisex",
+    "category": "accesories",
+    "subcategory": "apparel",
+    "price": 4180,
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["black", "blue"]
+    },
+    "image": "/images/product-26.jpg",
+    "svg": ""
+  },
+  {
+    "id": 27,
+    "name": "Fist Support T-Shirt",
+    "description": "short-sleeved t-shirt, fist support embroidered",
+    "type": "100% cotton, unisex",
+    "category": "accesories",
+    "subcategory": "apparel",
+    "price": 3080,
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["white", "black"]
+    },
+    "image": "/images/product-27.jpg",
+    "svg": ""
+  },
+  {
+    "id": 28,
+    "name": "Wanna Be Strong T-Shirt",
+    "description": "short-sleeved t-shirt",
+    "type": "100% cotton, unisex",
+    "category": "accesories",
+    "subcategory": "apparel",
+    "price": 3080,
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["white", "black"]
+    },
+    "image": "/images/product-28.jpg",
+    "svg": ""
+  },
+  {
+    "id": 29,
+    "name": "Kumite Backpack",
+    "description": "karate backpack designed to carry all your kumite essentials",
+    "type": "limited edition, only 500 units available",
+    "category": "accesories",
+    "subcategory": "goods",
+    "price": 17600,
+    "image": "/images/product-29.jpg",
+    "svg": ""
+  },
+  {
+    "id": 30,
+    "name": "Hirota Original Muffler Towel",
+    "description": "26cm wide x 115cm long",
+    "type": "hirota original goods",
+    "category": "accesories",
+    "subcategory": "goods",
+    "price": 1650,
+    "image": "/images/product-30.jpg",
+    "svg": ""
+  },
+  {
+    "id": 31,
+    "name": "Hirota Original Hand Towel",
+    "description": "33cm wide x 90cm long",
+    "type": "hirota original goods",
+    "category": "accesories",
+    "subcategory": "goods",
+    "price": 1100,
+    "image": "/images/product-31.jpg",
+    "svg": ""
+  },
+  {
+    "id": 32,
+    "name": "Hirota Original Bear Keychains",
+    "description": "your keys protected by cute bear karateka's",
+    "type": "hirota original goods",
+    "category": "accesories",
+    "subcategory": "goods",
+    "price": 880,
+    "options": {
+      "color": ["yellow", "brown", "white", "pink"]
+    },
+    "image": "/images/product-32.jpg",
+    "svg": ""
+  }
+]
