@@ -25,11 +25,11 @@ function Shop() {
 
       <Card title="Shop" subtitle="select category">
         <nav>
-          <div className="flex gap-10 justify-evenly mt-4">
+          <div className="flex flex-col items-start mt-3">
 
             <button
               onClick={() => setActiveCategory("karate-gi")}
-              className={`${linkBaseStyle} ${
+              className={`text-[22px] leading-tight hover:underline text-neutral-500 ${
                 activeCategory === "karate-gi" ? "underline" : ""
               }`}
             >
@@ -38,7 +38,7 @@ function Shop() {
 
             <button
               onClick={() => setActiveCategory("obi")}
-              className={`${linkBaseStyle} ${
+              className={`text-[22px] leading-tight hover:underline text-neutral-500 ${
                 activeCategory === "obi" ? "underline" : ""
               }`}
             >
@@ -47,7 +47,7 @@ function Shop() {
 
             <button
               onClick={() => setActiveCategory("equipment")}
-              className={`${linkBaseStyle} ${
+              className={`text-[22px] leading-tight hover:underline text-neutral-500 ${
                 activeCategory === "equipment" ? "underline" : ""
               }`}
             >
@@ -56,7 +56,7 @@ function Shop() {
 
             <button
               onClick={() => setActiveCategory("accesories")}
-              className={`${linkBaseStyle} ${
+              className={`text-[22px] leading-tight hover:underline text-neutral-500 ${
                 activeCategory === "accesories" ? "underline" : ""
               }`}
             >

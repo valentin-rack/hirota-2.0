@@ -3,7 +3,7 @@
 /* Tag styles */
 @layer base {
   body {
-    @apply text-xs font-mono;
+    @apply text-xs antialiased font-mono;
   }
 }
 

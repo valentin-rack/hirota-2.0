@@ -1,15 +1,28 @@
-import Card from "../../ui/Card"
+import { useEffect, useState } from "react"
+import ProductCard from "../../ui/ProductCard"
 
 function AccesoriesCardCont() {
-  return(
+
+  const [products, setProducts] = useState([])
+
+  useEffect(() => {
+    fetch("/hirota-2.0/api/products.json")
+      .then(res => res.json())
+      .then(data => setProducts(data))
+  }, [])
+
+  const accesoriesProducts = products.filter(product => product.category === "accesories")
+
+  return (
     <div className="flex flex-col gap-2">
-      <Card title="Accessory 1"></Card>
-      <Card title="Accessory 2"></Card>
-      <Card title="Accessory 3"></Card>
-      <Card title="Accessory 4"></Card>
-      <Card title="Accessory 5"></Card>
-      <Card title="Accessory 6"></Card>
-      <Card title="Accessory 7"></Card>
+
+      {accesoriesProducts.map(product => (
+        <ProductCard
+          key={product.id}
+          product={product}
+        />
+      ))}
+
     </div>
   )
 }

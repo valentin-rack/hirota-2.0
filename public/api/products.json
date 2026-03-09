@@ -7,18 +7,18 @@
     "category": "equipment",
     "subcategory": "competition-equipment",
     "price": 2530,
-    "image": "/images/product-1.jpg",
+    "image": "images/products/product-1.jpg",
     "svg": ""
   },
   {
-    "id": 2,
+    "id": 2,  
     "name": "JKA Seiken Supporter",
     "description": "JKA approved",
     "type": "traditional kumite gear, for children & adults",
     "category": "equipment",
     "subcategory": "competition-equipment",
     "price": 2530,
-    "image": "/images/product-2.jpg",
+    "image": "images/products/product-2.jpg",
     "svg": ""
   },
   {
@@ -32,7 +32,7 @@
     "options": {
       "size": ["XS", "S", "M", "L"]
     },
-    "image": "/images/product-3.jpg",
+    "image": "images/products/product-3.jpg",
     "svg": ""
   },
   {
@@ -46,7 +46,7 @@
     "options": {
       "size": ["XS", "S", "M", "L"]
     },
-    "image": "/images/product-4.jpg",
+    "image": "images/products/product-4.jpg",
     "svg": ""
   },
   {
@@ -60,7 +60,7 @@
     "options": {
       "size": ["S", "M"]
     },
-    "image": "/images/product-5.jpg",
+    "image": "images/products/product-5.jpg",
     "svg": ""
   },
   {
@@ -75,7 +75,7 @@
       "size": ["S", "M", "L"],
       "color": ["red", "blue"]
     },
-    "image": "/images/product-6.jpg",
+    "image": "images/products/product-6.jpg",
     "svg": ""
   },
   {
@@ -89,7 +89,7 @@
     "options": {
       "size": ["XS", "S", "M", "L"]
     },
-    "image": "/images/product-7.jpg",
+    "image": "images/products/product-7.jpg",
     "svg": ""
   },
   {
@@ -103,7 +103,7 @@
     "options": {
       "size": ["S", "M", "L"]
     },
-    "image": "/images/product-8.jpg",
+    "image": "images/products/product-8.jpg",
     "svg": ""
   },
   {
@@ -117,7 +117,7 @@
     "options": {
       "size": ["XS", "S", "M", "L"]
     },
-    "image": "/images/product-9.jpg",
+    "image": "images/products/product-9.jpg",
     "svg": ""
   },
   {
@@ -131,7 +131,7 @@
     "options": {
       "size": ["S", "M", "L"]
     },
-    "image": "/images/product-10.jpg",
+    "image": "images/products/product-10.jpg",
     "svg": ""
   },
   {
@@ -142,7 +142,7 @@
     "category": "equipment",
     "subcategory": "competition-equipment",
     "price": 1100,
-    "image": "/images/product-11.jpg",
+    "image": "images/products/product-11.jpg",
     "svg": ""
   },
   {
@@ -153,7 +153,7 @@
     "category": "equipment",
     "subcategory": "competition-equipment",
     "price": 1100,
-    "image": "/images/product-12.jpg",
+    "image": "images/products/product-12.jpg",
     "svg": ""
   },
   {
@@ -167,7 +167,7 @@
     "options": {
       "size": ["S", "M", "L"]
     },
-    "image": "/images/product-13.jpg",
+    "image": "images/products/product-13.jpg",
     "svg": ""
   },
   {
@@ -181,7 +181,7 @@
     "options": {
       "color": ["red", "blue"]
     },
-    "image": "/images/product-14.jpg",
+    "image": "images/products/product-14.jpg",
     "svg": ""
   },
 
@@ -195,7 +195,7 @@
     "category": "equipment",
     "subcategory": "referee-equipment",
     "price": 20570,
-    "image": "/images/product-15.jpg",
+    "image": "images/products/product-15.jpg",
     "svg": ""
   },
   {
@@ -209,7 +209,7 @@
     "options": {
       "color": ["white", "red", "blue"]
     },
-    "image": "/images/product-16.jpg",
+    "image": "images/products/product-16.jpg",
     "svg": ""
   },
   {
@@ -220,7 +220,7 @@
     "category": "equipment",
     "subcategory": "referee-equipment",
     "price": 330,
-    "image": "/images/product-17.jpg",
+    "image": "images/products/product-17.jpg",
     "svg": ""
   },
   {
@@ -234,7 +234,7 @@
     "options": {
       "color": ["white", "black"]
     },
-    "image": "/images/product-18.jpg",
+    "image": "images/products/product-18.jpg",
     "svg": ""
   },
 
@@ -248,7 +248,7 @@
     "category": "equipment",
     "subcategory": "training-equipment",
     "price": 3025,
-    "image": "/images/product-19.jpg",
+    "image": "images/products/product-19.jpg",
     "svg": ""
   },
   {
@@ -259,7 +259,7 @@
     "category": "equipment",
     "subcategory": "training-equipment",
     "price": 3630,
-    "image": "/images/product-20.jpg",
+    "image": "images/products/product-20.jpg",
     "svg": ""
   },
   {
@@ -270,7 +270,7 @@
     "category": "equipment",
     "subcategory": "training-equipment",
     "price": 7260,
-    "image": "/images/product-21.jpg",
+    "image": "images/products/product-21.jpg",
     "svg": ""
   },
   {
@@ -281,7 +281,7 @@
     "category": "equipment",
     "subcategory": "training-equipment",
     "price": 6050,
-    "image": "/images/product-22.jpg",
+    "image": "images/products/product-22.jpg",
     "svg": ""
   },
   {
@@ -292,7 +292,7 @@
     "category": "equipment",
     "subcategory": "training-equipment",
     "price": 9680,
-    "image": "/images/product-23.jpg",
+    "image": "images/products/product-23.jpg",
     "svg": ""
   },
 
@@ -310,7 +310,7 @@
       "size": ["S", "M", "L", "XL"],
       "color": ["white", "black"]
     },
-    "image": "/images/product-24.jpg",
+    "image": "images/products/product-24.jpg",
     "svg": ""
   },
   {
@@ -325,7 +325,7 @@
       "size": ["S", "M", "L", "XL"],
       "color": ["white", "black"]
     },
-    "image": "/images/product-25.jpg",
+    "image": "images/products/product-25.jpg",
     "svg": ""
   },
   {
@@ -340,7 +340,7 @@
       "size": ["S", "M", "L", "XL"],
       "color": ["black", "blue"]
     },
-    "image": "/images/product-26.jpg",
+    "image": "images/products/product-26.jpg",
     "svg": ""
   },
   {
@@ -355,7 +355,7 @@
       "size": ["S", "M", "L", "XL"],
       "color": ["white", "black"]
     },
-    "image": "/images/product-27.jpg",
+    "image": "images/products/product-27.jpg",
     "svg": ""
   },
   {
@@ -370,7 +370,7 @@
       "size": ["S", "M", "L", "XL"],
       "color": ["white", "black"]
     },
-    "image": "/images/product-28.jpg",
+    "image": "images/products/product-28.jpg",
     "svg": ""
   },
   {
@@ -381,7 +381,7 @@
     "category": "accesories",
     "subcategory": "goods",
     "price": 17600,
-    "image": "/images/product-29.jpg",
+    "image": "images/products/product-29.jpg",
     "svg": ""
   },
   {
@@ -392,7 +392,7 @@
     "category": "accesories",
     "subcategory": "goods",
     "price": 1650,
-    "image": "/images/product-30.jpg",
+    "image": "images/products/product-30.jpg",
     "svg": ""
   },
   {
@@ -403,7 +403,7 @@
     "category": "accesories",
     "subcategory": "goods",
     "price": 1100,
-    "image": "/images/product-31.jpg",
+    "image": "images/products/product-31.jpg",
     "svg": ""
   },
   {
@@ -417,7 +417,7 @@
     "options": {
       "color": ["yellow", "brown", "white", "pink"]
     },
-    "image": "/images/product-32.jpg",
+    "image": "images/products/product-32.jpg",
     "svg": ""
   }
 ]
